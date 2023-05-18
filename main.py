@@ -27,7 +27,7 @@ parser = argparse.ArgumentParser(description='Facebook Automate messages')
 # Add command-line flag options
 parser.add_argument('-u', '--username', type=str, help='-u youremailaddress@gmail or phone number like -u 987654310')
 parser.add_argument('-p', '--password', type=str, help='-p yourpassword')
-parser.add_argument('-t', '--target', type=str, help='-t 100079483187607 or -t cid.g.4183004461801550')
+parser.add_argument('-t', '--target', type=str, help='-t 1000794837607 or -t cid.g.4183004461550')
 parser.add_argument('-f', '--file', type=str, help='-f gail.txt give the location of your file that has messages we want to send')
 
 
