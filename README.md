@@ -3,7 +3,9 @@ Using this python script you can automate the messages in facebook. You can send
 
 # Installation:
 `git clone https://github.com/yes-i-miss-her/facebook-auto-message`
+
 `cd facebook-auto-message`
+
 `pip install -r requirements.txt`
 
 # Usage:
