@@ -8,4 +8,5 @@ pip install -r requirements.txt
 `
 # Usage:
 It's very simple to use
+
 `python3 main.py -u youremailid@mail.com -p yourpassword -t targetuserid -f messages.txt`
